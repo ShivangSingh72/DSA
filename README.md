@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
+| [1929-concatenation-of-array](https://github.com/ShivangSingh72/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ShivangSingh72/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
