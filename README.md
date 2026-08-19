@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShivangSingh72/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSingh72/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShivangSingh72/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangSingh72/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
