@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShivangSingh72/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangSingh72/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ShivangSingh72/DSA/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangSingh72/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivangSingh72/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ShivangSingh72/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangSingh72/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangSingh72/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangSingh72/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -50,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangSingh72/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangSingh72/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangSingh72/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
