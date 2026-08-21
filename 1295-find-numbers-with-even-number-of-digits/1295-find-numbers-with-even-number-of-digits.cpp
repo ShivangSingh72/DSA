@@ -2,15 +2,11 @@ class Solution {
 public:
     int findNumbers(vector<int>& nums) {
     int count = 0;
-    for(int num : nums){
-        int digits = 0;
+    
+    for(int i = 0; i < nums.size(); i++){
+        string num = to_string(nums[i]);
 
-        while(num > 0){
-            digits++;
-            num /= 10;
-        }
-
-        if (digits % 2 == 0){
+        if(num.size() % 2 == 0){
             count++;
         }
     }
