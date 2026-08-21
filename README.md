@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShivangSingh72/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ShivangSingh72/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangSingh72/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivangSingh72/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivangSingh72/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ShivangSingh72/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ShivangSingh72/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivangSingh72/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
