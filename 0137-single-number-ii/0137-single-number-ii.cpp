@@ -1,17 +1,20 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int , int> freq;
+        int ans = 0;
 
-        for(int num : nums){
-            freq[num]++;
-        }
+        for(int bit = 0; bit < 32; bit++){
+            int count = 0;
 
-        for(int num : nums){
-            if(freq[num] == 1){
-                return num;
-            } 
+            for(int num : nums){
+                if((num >> bit) & 1){
+                    count++;
+                }
+            }
+            if(count % 3 != 0){
+                ans |= (1 << bit);
+            }
         }
-        return -1;
+        return ans;
     }
 };
