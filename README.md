@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShivangSingh72/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShivangSingh72/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangSingh72/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/ShivangSingh72/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ShivangSingh72/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShivangSingh72/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangSingh72/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ShivangSingh72/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ShivangSingh72/DSA/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ShivangSingh72/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ShivangSingh72/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
