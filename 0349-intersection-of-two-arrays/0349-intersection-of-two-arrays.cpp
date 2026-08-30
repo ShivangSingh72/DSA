@@ -7,10 +7,10 @@ public:
         for(int num : nums1){
             st.insert(num);
         }
-        for(int i = 0; i < nums2.size(); i++){
-            if(st.find(nums2[i]) != st.end()){
-                ans.push_back(nums2[i]);
-                st.erase(nums2[i]);
+        for(int num : nums2){
+            if(st.find(num) != st.end()){
+                ans.push_back(num);
+                st.erase(num);
             }
         }
         return ans;
